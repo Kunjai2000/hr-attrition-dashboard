@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Interview material must never be committed
+interviews/
+
+# Large model files
+models/*.pkl
+models/*.joblib
