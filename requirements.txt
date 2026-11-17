@@ -1,0 +1,3 @@
+# Data checks (tested with pandas 3.0.5).
+# Versions for the ML pipeline and dashboard will be pinned when that code is added.
+pandas>=2.2,<4
